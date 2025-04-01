@@ -34,7 +34,7 @@ export default function () {
 
       <View style={styles.qrContainer}>
         <QRCode
-          value="https://nflmadrid.com/"
+          value="https://182.32.122.33:4000/"
           size={Dimensions.get('window').width / 2.5}
           color={COLORS.main}
         />
